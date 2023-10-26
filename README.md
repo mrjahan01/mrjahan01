@@ -42,7 +42,7 @@ i am here to share my projects, ideas and collaborate with new people to develop
 
 <img style="margin:5px 10px; height:20px" alt="Redis" src="https://img.shields.io/badge/GitHub-%23181717?style=%20flat-square&logo=GitHub&logoColor=white"/>
 
-## 📫 How To Reach Me :
+<!--## 📫 How To Reach Me : -->
 
 <!--I like to connecting with diffrent people so let's collaborate and bring your WordPress ideas to life.-->
 
