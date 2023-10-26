@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/mrjahanbakhsh1"><img src="https://readme-typing-svg.demolab.com?font=Nunito&duration=2000&pause=300&multiline=true&height=100&lines=Mohammad+Reza;Software+Engineering+Student;BackEnd+%7C+WordPress+" alt="Typing SVG" /></a>
+    <a href="https://github.com/mrjahan01"><img src="https://readme-typing-svg.demolab.com?font=Nunito&duration=2000&pause=300&multiline=true&height=100&lines=Mohammad+Reza;Software+Engineering+Student;BackEnd+%7C+PHP+%7C+WordPress+" alt="Typing SVG" /></a>
 </p>
 
 ## 🛸 About Me :
@@ -7,7 +7,7 @@ Hi, my name is Mohammad. I am a WordPress Developer, I currently create dynamic 
 I currently working on some projects like shopping websites and bloges for developing my skills.
 i am here to share my projects, ideas and collaborate with new people to develop my skills.
 
-<a href="https://github.com/mrjahanbakhsh1"><img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1000&pause=1000&color=F7821F&multiline=true&repeat=false&width=300&height=100&lines=&nbsp;&nbsp;__&nbsp;&nbsp;__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;%7C&nbsp;&nbsp;%5C%2F&nbsp;&nbsp;%7C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%7C&nbsp;%7C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%7C&nbsp;%7C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;%7C&nbsp;%5C&nbsp;&nbsp;%2F&nbsp;%7C_&nbsp;__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%7C&nbsp;%7C&nbsp;__&nbsp;_%7C&nbsp;%7C__&nbsp;&nbsp;&nbsp;__&nbsp;_&nbsp;_&nbsp;__&nbsp;&nbsp;;&nbsp;%7C&nbsp;%7C%5C%2F%7C&nbsp;%7C&nbsp;'__%7C&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;%7C&nbsp;%7C%2F&nbsp;_%60&nbsp;%7C&nbsp;'_&nbsp;%5C&nbsp;%2F&nbsp;_%60&nbsp;%7C&nbsp;'_&nbsp;%5C&nbsp;;&nbsp;%7C&nbsp;%7C&nbsp;&nbsp;%7C&nbsp;%7C&nbsp;%7C&nbsp;&nbsp;&nbsp;&nbsp;%7C&nbsp;%7C__%7C&nbsp;%7C&nbsp;(_%7C&nbsp;%7C&nbsp;%7C&nbsp;%7C&nbsp;%7C&nbsp;(_%7C&nbsp;%7C&nbsp;%7C&nbsp;%7C&nbsp;%7C;&nbsp;%7C_%7C&nbsp;&nbsp;%7C_%7C_%7C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%5C____%2F&nbsp;%5C__%2C_%7C_%7C&nbsp;%7C_%7C%5C__%2C_%7C_%7C&nbsp;%7C_%7C" alt="Typing SVG" /></a>
+<a href="https://github.com/mrjahan01"><img align="right" src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=10&duration=1000&pause=1000&color=F7821F&multiline=true&repeat=false&width=300&height=100&lines=&nbsp;&nbsp;__&nbsp;&nbsp;__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;%7C&nbsp;&nbsp;%5C%2F&nbsp;&nbsp;%7C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%7C&nbsp;%7C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%7C&nbsp;%7C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;;&nbsp;%7C&nbsp;%5C&nbsp;&nbsp;%2F&nbsp;%7C_&nbsp;__&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%7C&nbsp;%7C&nbsp;__&nbsp;_%7C&nbsp;%7C__&nbsp;&nbsp;&nbsp;__&nbsp;_&nbsp;_&nbsp;__&nbsp;&nbsp;;&nbsp;%7C&nbsp;%7C%5C%2F%7C&nbsp;%7C&nbsp;'__%7C&nbsp;&nbsp;_&nbsp;&nbsp;&nbsp;%7C&nbsp;%7C%2F&nbsp;_%60&nbsp;%7C&nbsp;'_&nbsp;%5C&nbsp;%2F&nbsp;_%60&nbsp;%7C&nbsp;'_&nbsp;%5C&nbsp;;&nbsp;%7C&nbsp;%7C&nbsp;&nbsp;%7C&nbsp;%7C&nbsp;%7C&nbsp;&nbsp;&nbsp;&nbsp;%7C&nbsp;%7C__%7C&nbsp;%7C&nbsp;(_%7C&nbsp;%7C&nbsp;%7C&nbsp;%7C&nbsp;%7C&nbsp;(_%7C&nbsp;%7C&nbsp;%7C&nbsp;%7C&nbsp;%7C;&nbsp;%7C_%7C&nbsp;&nbsp;%7C_%7C_%7C&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;%5C____%2F&nbsp;%5C__%2C_%7C_%7C&nbsp;%7C_%7C%5C__%2C_%7C_%7C&nbsp;%7C_%7C" alt="Typing SVG" /></a>
 
 <p align="left">
 
@@ -15,7 +15,7 @@ i am here to share my projects, ideas and collaborate with new people to develop
 <br>
 ⮞ I’m currently working on Back End Development
 <br>
-⮞ I’m currently learning PHP
+⮞ I’m currently learning PHP and WordPress
 
 </p>
 <br>
@@ -44,12 +44,12 @@ i am here to share my projects, ideas and collaborate with new people to develop
 
 ## 📫 How To Reach Me :
 
-I like to connecting with diffrent people so let's collaborate and bring your WordPress ideas to life.
+<!--I like to connecting with diffrent people so let's collaborate and bring your WordPress ideas to life.-->
 
-<a href = "mailto:jahanbmrz0045@gmail.com"><img width="70px" src="https://img.shields.io/badge/-Gmail-%23E34F50?style=%20flat-square&logo=gmail&logoColor=white"></a>
+<!-- <a href = "mailto:jahanbmrz0045@gmail.com"><img width="70px" src="https://img.shields.io/badge/-Gmail-%23E34F50?style=%20flat-square&logo=gmail&logoColor=white"></a> -->
 
 ## 📈 Github Stats :
 
-<a href="https://github.com/mrjahanbakhsh1"><img align="left" src="https://github-readme-stats.vercel.app/api?username=mrjahanbakhsh1&show_icons=true&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/mrjahan01"><img align="left" src="https://github-readme-stats.vercel.app/api?username=mrjahan01&show_icons=true&theme=tokyonight&hide_border=true"/></a>
 
-<a href="https://github.com/mrjahanbakhsh1"><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjahanbakhsh1&layout=compact&theme=tokyonight&hide_border=true"/></a>
+<a href="https://github.com/mrjahan01"><img align="left"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrjahan01&layout=compact&theme=tokyonight&hide_border=true"/></a>
